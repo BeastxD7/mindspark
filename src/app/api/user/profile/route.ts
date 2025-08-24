@@ -1,5 +1,5 @@
 import { prisma } from "@/prisma";
-import { NextRequest, NextResponse } from "next/server";
+import { NextResponse } from "next/server";
 import { auth } from "@/auth";
  // Adjust path as needed
 
